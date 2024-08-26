@@ -1,0 +1,3 @@
+Fix calculations using vertical lines!
+Update ray to properly use new SlopeIntercept
+Update circle to use the movable SimObjects
